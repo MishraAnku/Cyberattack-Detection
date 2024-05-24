@@ -1,5 +1,8 @@
 # Cyberattack-Detection
-cyber attack  
+_Author: Antoine DELPLACE_  
+_Last update: 17/01/2020_  
+
+This repository corresponds to the source code used for the Advanced Security project "__Cyber Attack Detection thanks to Machine Learning Algorithms__". This work has been carried out by Antoine Delplace, Sheryl Hermoso and Kristofer Anandita.  
 
 ## Method description
 The aim of the project is to find a mechanism that can detect cyber attacks by analysing flows in a network. To do this, a benchmark of different machine learning methods is performed on a large netflow dataset (see Report).
